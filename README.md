@@ -10,9 +10,9 @@ Ciclo de vida completo de um **deploy** utilizando as práticas e ferramentas es
 
 Entender como configurar, gerenciar e automatizar todo o processo de deploy em um ambiente de produção.
 
-[![Projeto](https://img.shields.io/badge/Projeto-DataOps-blue?style=for-the-badge)]
-[![Python](https://img.shields.io/badge/Python-3.12+-green?style=for-the-badge\&logo=python)]
-[![AWS](https://img.shields.io/badge/AWS-Cloud-blue?style=for-the-badge\&logo=aws)]
-[![Docker](https://img.shields.io/badge/Docker-Environment-yellow?style=for-the-badge)]
-[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-red?style=for-the-badge)]
+![Projeto](https://img.shields.io/badge/Projeto-DataOps-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-green?style=for-the-badge\&logo=python)
+![AWS](https://img.shields.io/badge/AWS-Cloud-blue?style=for-the-badge\&logo=aws)
+![Docker](https://img.shields.io/badge/Docker-Environment-yellow?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-red?style=for-the-badge)
 -----

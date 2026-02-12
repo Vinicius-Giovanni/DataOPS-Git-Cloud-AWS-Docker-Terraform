@@ -1,8 +1,8 @@
-# Projeto: DataOps
+# Projeto: Conversor de Parquet > CSV
 -----
 
 ## 📋 Sobre
-Ciclo de vida completo de um **deploy** utilizando as práticas e ferramentas essenciais do **DataOps**. Abordaremos as etapas de:
+Construir uma aplicação que converte parquet para csv, mas o foco é no **ciclo de vida** completo de um **deploy** utilizando as práticas e ferramentas essenciais do **DataOps**. Abordaremos as etapas de:
 - Organização do código-fonte com Git
 - Deploy final em infraestrutura na nuvem utilizando AWS, Docker e Terraform
 
